@@ -2,6 +2,15 @@
 
 這是一個 [Tampermonkey](https://www.tampermonkey.net/) 的 Userscript，可調整 [Microsoft Forms](https://forms.office.com/) **回應頁面**顯示較寬的選項內容(from 180px to 350px)。
 
+除此之外，我還修正了額外的空白與特殊符號被 HTML Encode 的問題。
+
+- 原本的畫面
+
+    <img width="611" alt="p1" src="https://user-images.githubusercontent.com/88981/117027633-7866c000-ad2f-11eb-8627-163538f3c235.png">
+
+- 修正後的畫面
+
+    <img width="611" alt="p2" src="https://user-images.githubusercontent.com/88981/117027641-7997ed00-ad2f-11eb-90cf-9d12eccde781.png">
 
 ## Usage
 
